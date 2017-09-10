@@ -1,0 +1,2 @@
+#b#cff0000ff Create Jewel #nb#nc
+You can create Jewels by destroying weapons that have a lvl. 60 or higher requirement to wield. The amount of Jewels that are created is decided by how upgraded the weapon is (+1 - +10) and what the required level is to wield the weapon. The success rate is based on how upgraded the weapon is. (+1 - +10). If the conversion fails the weapon is destroyed and no jewels are created.

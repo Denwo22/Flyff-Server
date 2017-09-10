@@ -1,0 +1,8 @@
+// World script
+
+size 5, 5
+indoor 0
+ambient 0xff808080
+bgColor 0xffe0e0ff
+camera 1281.445 291.582 1281.373  1.571  0.000 
+revival 0 "" 

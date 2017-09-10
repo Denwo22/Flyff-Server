@@ -1,0 +1,2 @@
+#b#cff0000ff - Hero Skill Level Up -#nb#nc
+¡Ø You can level up your Hero Skill by using 1 of each kind of Jewel (Diamond, Emerald, Sapphire, Ruby, Topaz). The Hero Skill will be leveled randomly from lvl.1-lvl.5.

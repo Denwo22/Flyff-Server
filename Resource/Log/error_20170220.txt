@@ -1,0 +1,6 @@
+2017/ 2/20   12:15:25   g_pPlayer is ready
+
+2017/ 2/20   12:15:27   CWndTaskBar::SetTaskBarTexture : Daniel 2010
+
+2017/ 2/20   12:15:27   CWndTaskBar::SetTaskBarTexture : Daniel 581
+

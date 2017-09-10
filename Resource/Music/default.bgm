@@ -1,0 +1,56 @@
+BGM_TITLE      "music\BgmDu1Mystery.ogg" // "music\BgmTitle.ogg"
+
+BGM_TO_FLARIS        "music\BgmTo1Flaris.ogg" // "music\BgmTo1Flaris.ogg" 
+BGM_TO_SAINTMORNING  "music\BgmTo2Music.ogg" // saintmonring
+BGM_TO_DARKON        "music\BgmFi4Darkon2.ogg"
+
+BGM_DU_MYSTERY    "music\BgmDu1Mystery.ogg"
+BGM_DU_CREEP      "music\BgmDu2Creep.ogg"
+BGM_DU_TERROR     "music\BgmDu3Terror.ogg"
+
+BGM_TH_GENERAL    "music\BgmTh1General.ogg" 
+BGM_TH_LACHRYMOSE "music\BgmTh2Lachrymose.ogg"
+BGM_TH_RETURN     "music\BgmTh3Return.ogg"
+BGM_TH_TEMPLE     "music\BgmTh4Temple.ogg"
+BGM_TH_PLAYGROUND "music\BgmTh5Playground.ogg"
+BGM_TH_FLYING     "music\BgmTh6Flying.ogg"
+BGM_TH_MASKBALL   "music\BgmTh7Maskball.ogg"
+ 
+BGM_BA_FLARIS     "music\BgmBaGeneral.ogg"
+BGM_BA_CRISIS     "music\BgmBaCrisis.ogg"
+
+BGM_EV_LIGHTWING  "music\BgmEvLightwing.ogg"
+BGM_EV_HEAVYWING  "music\BgmEvHeavywing.ogg"
+BGM_EV_START      "music\BgmEvStart.ogg"
+BGM_EV_END        "music\BgmEvEnd.ogg"
+
+BGM_IN_BOSS       "music\BgmInBoss.ogg"
+BGM_IN_DEATH      "music\BgmInDeath.ogg"
+BGM_IN_LEVELUP    "music\BgmInLevelUp.ogg"
+BGM_IN_LEVEL      "music\BgmInLevelUp.ogg" //"music\BgmInProfession.ogg"
+BGM_IN_FITUP      "music\BgmInFitup.ogg"
+BGM_IN_COMPANY    "music\BgmInCompany.ogg"
+
+// 추가 전투 음악 
+BGM_BA_SAINTMORNING "music\BgmBa3Saintmorning.ogg"
+BGM_BA_DARKON       "music\BgmBa4Darkon.ogg"
+
+// 추가 던젼 음악
+BGM_DU_INVISIBLE  "music\Bgm4DuDarkon.ogg"
+
+// 추가 필드 뮤직 
+BGM_FI_FLARIS        "music\BgmFi1Flaris.ogg"
+BGM_FI_SAINTMORNING  "music\BgmTh3Return.ogg"
+BGM_FI_DARKON1       "music\BgmFi3Darkon1.ogg" 
+BGM_FI_DARKON2       "music\BgmFi4Darkon2.ogg" 
+BGM_FI_DARKON3       "music\BgmFiDarkon.ogg" 
+
+// 추가 npc 음악 
+BGM_NPC_HORROR         "music\BgmNPCHorror.ogg" 
+BGM_NPC_HORROR2        "music\BgmNPCHorror2.ogg" 
+BGM_NPC_MILD           "music\BgmNPCMild.ogg" 
+BGM_NPC_SAD            "music\BgmNPCSad.ogg" 
+BGM_NPC_SECRET         "music\BgmNPCFiSecret.ogg" 
+BGM_NPC_SOLEMN         "music\BgmNPCFiSolemn.ogg" 
+BGM_NPC_SOLEMN2        "music\BgmNPCFiSolemn2.ogg" 
+BGM_NPC_ACCOMPLISH     "music\BgmNPCAccomplish.ogg" 

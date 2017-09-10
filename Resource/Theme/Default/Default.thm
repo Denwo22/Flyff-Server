@@ -1,0 +1,48 @@
+// Theme Script
+
+
+// Background Color
+m_d3dcBackground     = 0xff000000    
+//ff5050a0
+
+// Window
+m_d3dcWndBkgr        = 0xffffffff
+m_d3dcWndBolder      = 0xffffffff
+m_d3dcWndFrame       = 0xffffffff
+m_d3dcWndTitle       = 0xffffffff
+m_d3dcWndDeAct       = 0xffffffff
+
+// TextBox
+m_d3dcTextBkgr       = 0xffffffff
+m_d3dcTextBolder     = 0xffffffff
+m_d3dcTextFrame      = 0xffffffff
+
+// Button
+m_d3dcButtonBkgr     = 0xffffffff
+m_d3dcButtonBolder   = 0xffffffff
+m_d3dcButtonFrame    = 0xffffffff
+m_d3dcFont           = 0xffffffff
+m_d3dcHighLightFont  = 0xffffffff
+m_d3dcPushFont       = 0xffffffff
+m_d3dcHighLightBar   = 0xffffffff
+
+// MenuItem
+m_d3dcMenuItemBkgr   = 0xffffffff
+m_d3dcMenuItemBolder = 0xffffffff
+m_d3dcMenuItemFrame  = 0xffffffff
+
+// Chat or Message
+m_d3dcChatMyFont     = 0xffffffff
+m_d3dcMsgFont        = 0xffffffff
+m_d3dcMsgFontWarning = 0xffffffff
+m_d3dcMsgFontEffect  = 0xffffffff
+m_d3dcMsgFontNotice  = 0xffffffff
+
+// ScrollBar
+m_d3dcSBarPad        = 0xffffffff
+m_d3dcSBarStick      = 0xffffffff
+
+// WallPaper
+//m_texWallPaper       = "background.jpg" //"madrigal.jpg" //"Windy.jpg"//"WALLPA.JPG"//"nu11.JPG" //"WALLPA.JPG"// "nu11.JPG"//"Windy.jpg"
+m_texWallPaper       = "screen.bmp" //"madrigal.jpg" //"Windy.jpg"//"WALLPA.JPG"//"nu11.JPG" //"WALLPA.JPG"// "nu11.JPG"//"Windy.jpg"
+m_dwWallPaperType    = 1 //3

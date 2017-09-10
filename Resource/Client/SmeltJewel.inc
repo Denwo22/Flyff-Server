@@ -1,0 +1,2 @@
+#b#cff0000ff Jewel Composing #nb#nc
+Jewel setting is possible with an Ultimate weapon that has been upgraded to +6 or higher. If the setting succeeds the weapon will get 1 out of 9 possible attributes. There is an added stat bonus if you succeed in setting the same jewel and getting the same attribute twice or more. If the setting fails, only the jewel will be lost. (The most recently set Jewel can be removed by using a Moonstone.)
